@@ -1,0 +1,7 @@
+C:\Users\katar\OneDrive\Desktop\Zastita informacija MOJ PROJEKAT\Wcf\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csproj.AssemblyReference.cache
+C:\Users\katar\OneDrive\Desktop\Zastita informacija MOJ PROJEKAT\Wcf\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Desktop\Zastita informacija MOJ PROJEKAT\Wcf\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.dll.config
+C:\Users\katar\OneDrive\Desktop\Zastita informacija MOJ PROJEKAT\Wcf\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.dll
+C:\Users\katar\OneDrive\Desktop\Zastita informacija MOJ PROJEKAT\Wcf\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.pdb
+C:\Users\katar\OneDrive\Desktop\Zastita informacija MOJ PROJEKAT\Wcf\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.dll
+C:\Users\katar\OneDrive\Desktop\Zastita informacija MOJ PROJEKAT\Wcf\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.pdb
